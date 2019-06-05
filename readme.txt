@@ -5,12 +5,3 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 Creating a new branch is quick.
-
-wwwwww
-
-9876
-
-1234
-
-
-33333
