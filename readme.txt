@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 
 Git tracks changes.
 
+
 Creating a new branch is quick. 
 
 222222222
@@ -15,3 +16,9 @@ Creating a new branch is quick.
 44444444
 
 55555555
+
+Creating a new branch is quick.
+
+
+1234567890
+
