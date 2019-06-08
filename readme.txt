@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 
 
 1111111122222233333
+222
